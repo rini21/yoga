@@ -3,15 +3,21 @@
  <div class="sidenav">
   <a href="login">Login</a>
   <a href="signup">Sign Up</a>
-  <a href="auth/user-1">Yoga Class</a>
+  <a href="auth/user-1">Book Yoga Class</a>
   <a href="auth/benefis">Benefits</a>
   <a href="auth/contr">Contraindications</a>
   <a href="auth/prec">Precautions</a>
+  <a href="HQ">Health Questionnaire</a>
+  <a href="settings">Settings</a>
+
 </div>
 
 <!-- Page content -->
 <div class="main">
-  UI for student
+  <p>
+  About Yoga Class Planner: This interface is used to book yoga classes based on your ability. <br/>
+  The available levels of intensity are: BEGINNER, INTERMEDIATE and ADVANCED. Please fill the <a href="HQ">Health Questionnaire</a> to get started.
+  </p>
 
 </div> 
 

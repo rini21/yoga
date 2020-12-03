@@ -11,7 +11,7 @@
 </div>
 </form>
 </div>
-<!-- <style>
+<style>
 /* Container */
 .container{
     width:40%;
@@ -55,6 +55,6 @@
     border: 0px;
     color: white;
 }
-</style> -->
+</style>
 </body>
 </html>
